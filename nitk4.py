@@ -39,19 +39,13 @@
 # del c
 
 # problem2
-# import random
 # n1=input("what is your input\n")
 # b=[]
 # # n1="aswin"
 # for i in range(0,len(n1),3):
 #     b.append(n1[i:i+3])
 # print(b)
-# d=""
-# while(b!=[]):
-#     c=random.choice(b)
-#     b.remove(c)
-#     d=d+c
-# print(d)
+# print(n1)
 
 # problem 3
 # class students:
